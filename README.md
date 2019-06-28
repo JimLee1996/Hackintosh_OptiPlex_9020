@@ -14,6 +14,8 @@
 
 Copy files in EFI directory to your EFI partition.
 
+**NOTE THAT** you should re-generate smbios information.
+
 
 ## Fix BIOS issues
 

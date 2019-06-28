@@ -153,7 +153,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02410108J9G2Y71H</string>
+		<string>C02511404GUG2Y78C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -183,9 +183,9 @@
 		<key>ProductName</key>
 		<string>iMac15,1</string>
 		<key>SerialNumber</key>
-		<string>C02MD7ZJFY10</string>
+		<string>C02PF0L9FY10</string>
 		<key>SmUUID</key>
-		<string>16C8CF6F-F8DB-4C19-BF4A-956E6B8A4D1A</string>
+		<string>A348986D-922F-4521-9398-F8BB6986E1DF</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
